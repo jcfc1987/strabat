@@ -1,0 +1,73 @@
+Formulário:
+
+Dados Pessoais:
+
+		Nome:
+
+		Data de nascimento:
+
+		Morada:
+
+		Código-Postal:
+
+		Naturalidade:
+
+		Nacionalidade:
+
+		NIF:
+
+		BI/CC:
+
+		NISS:
+
+		Nr. saúde europeu:
+
+
+Habilitações Literárias:
+
+		Escolaridade:
+
+		Escola/Universidade:
+
+		Linguas:
+
+
+Percurso profissional:
+
+		Função:
+
+		Empresa:
+
+		Motivo de saída:
+
+		Desempregado: s/n
+
+		Recebe subsídio: s/n
+
+		A que áreas e candidata:
+
+Observações:
+
+
+
+Entrevista:
+
+		Disponibilidade imediata:
+		S/N
+
+		Como soube da nossa empresa:
+
+		A que função se candidata:
+
+Respostas:
+
+		Curtas -
+		Evasivas -
+		Rápidas-
+		Com conteúdo -
+
+		Observações:
+
+		A considerar:
+
+S/N
